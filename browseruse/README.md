@@ -1,3 +1,5 @@
+malith
+
 # BrowserUse Continuous Control Examples
 
 This directory contains examples of how to use the BrowserUse library for continuous browser control.
