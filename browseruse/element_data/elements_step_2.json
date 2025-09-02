@@ -1,0 +1,1490 @@
+{
+  "1": {
+    "tag_name": "a",
+    "text_content": "Skip to main content",
+    "bounding_box": {
+      "x": 11.00000026267086,
+      "y": 58.40000139454347,
+      "width": 109.20000260760527,
+      "height": 43.20000103158011,
+      "top": 58.40000139454347,
+      "left": 11.00000026267086,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 1017262369527987512
+  },
+  "2": {
+    "tag_name": "a",
+    "text_content": "Accessibility help",
+    "bounding_box": {
+      "x": 11.00000026267086,
+      "y": 58.40000139454347,
+      "width": 109.20000260760527,
+      "height": 43.20000103158011,
+      "top": 58.40000139454347,
+      "left": 11.00000026267086,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 9026925543408084464
+  },
+  "3": {
+    "tag_name": "a",
+    "text_content": "Accessibility feedback",
+    "bounding_box": {
+      "x": 11.00000026267086,
+      "y": 86.00000205360854,
+      "width": 109.20000260760527,
+      "height": 43.20000103158011,
+      "top": 86.00000205360854,
+      "left": 11.00000026267086,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 1381028236291691925
+  },
+  "4": {
+    "tag_name": "div",
+    "text_content": "Press  /  to jump to the search box Scratch Education Scratch Education Choose what you\u2019re giving feedback on Delete See more Delete See more Report inappropriate predictions (function(){\nvar a=this||self;var c=document.querySelector(\"form\");if(c){var d=function(b){b.key!==\"Enter\"||b.shiftKey||(b.preventDefault(),c.submit&&c.submit())};c.addEventListener(\"keydown\",d);a.sbmlhf=d};}).call(this); Quick Settings Sign in",
+    "bounding_box": {
+      "x": 0.0,
+      "y": 26.000000620858398,
+      "width": 1022.4000244140625,
+      "height": 51.60000123216513,
+      "top": 26.000000620858398,
+      "left": 0.0,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 9091549319192844150
+  },
+  "5": {
+    "tag_name": "form",
+    "text_content": "Press  /  to jump to the search box Scratch Education Scratch Education Choose what you\u2019re giving feedback on Delete See more Delete See more Report inappropriate predictions (function(){\nvar a=this||self;var c=document.querySelector(\"form\");if(c){var d=function(b){b.key!==\"Enter\"||b.shiftKey||(b.preventDefault(),c.submit&&c.submit())};c.addEventListener(\"keydown\",d);a.sbmlhf=d};}).call(this);",
+    "bounding_box": {
+      "x": 28.000000668616735,
+      "y": 26.000000620858398,
+      "width": 763.4000182293577,
+      "height": 51.60000123216513,
+      "top": 26.000000620858398,
+      "left": 28.000000668616735,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 1463921209970970642
+  },
+  "6": {
+    "tag_name": "a",
+    "text_content": null,
+    "bounding_box": {
+      "x": 28.000000668616735,
+      "y": 36.000000859650086,
+      "width": 92.00000219688356,
+      "height": 34.00000081189175,
+      "top": 36.000000859650086,
+      "left": 28.000000668616735,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 8421626949198942861
+  },
+  "7": {
+    "tag_name": "textarea",
+    "text_content": "Scratch Education Scratch Education",
+    "bounding_box": {
+      "x": 184.80000441287044,
+      "y": 26.80000063996173,
+      "width": 425.0000101486469,
+      "height": 50.000001193958454,
+      "top": 26.80000063996173,
+      "left": 184.80000441287044,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 8131129240530322428
+  },
+  "8": {
+    "tag_name": "div",
+    "text_content": null,
+    "bounding_box": {
+      "x": 609.8000145615173,
+      "y": 26.80000063996173,
+      "width": 52.800001260820125,
+      "height": 50.000001193958454,
+      "top": 26.80000063996173,
+      "left": 609.8000145615173,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 5647264872178922456
+  },
+  "9": {
+    "tag_name": "div",
+    "text_content": null,
+    "bounding_box": {
+      "x": 609.8000145615173,
+      "y": 26.80000063996173,
+      "width": 48.00000114620011,
+      "height": 50.000001193958454,
+      "top": 26.80000063996173,
+      "left": 609.8000145615173,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 96304479898736804
+  },
+  "10": {
+    "tag_name": "span",
+    "text_content": null,
+    "bounding_box": {
+      "x": 657.8000157077174,
+      "y": 35.55000084890446,
+      "width": 0.8000000191033353,
+      "height": 32.500000776072994,
+      "top": 35.55000084890446,
+      "left": 657.8000157077174,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 3300119842781456239
+  },
+  "11": {
+    "tag_name": "div",
+    "text_content": null,
+    "bounding_box": {
+      "x": 662.6000158223375,
+      "y": 26.80000063996173,
+      "width": 40.00000095516676,
+      "height": 50.000001193958454,
+      "top": 26.80000063996173,
+      "left": 662.6000158223375,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 118199407152203648
+  },
+  "12": {
+    "tag_name": "div",
+    "text_content": null,
+    "bounding_box": {
+      "x": 702.6000167775042,
+      "y": 26.80000063996173,
+      "width": 40.00000095516676,
+      "height": 50.000001193958454,
+      "top": 26.80000063996173,
+      "left": 702.6000167775042,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 313902225061233622
+  },
+  "13": {
+    "tag_name": "button",
+    "text_content": null,
+    "bounding_box": {
+      "x": 746.6000178281877,
+      "y": 26.80000063996173,
+      "width": 44.00000105068344,
+      "height": 50.000001193958454,
+      "top": 26.80000063996173,
+      "left": 746.6000178281877,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 869553833312784443
+  },
+  "14": {
+    "tag_name": "div",
+    "text_content": "Quick Settings",
+    "bounding_box": {
+      "x": 827.4000197576245,
+      "y": 28.000000668616735,
+      "width": 40.00000095516676,
+      "height": 49.600001184406786,
+      "top": 28.000000668616735,
+      "left": 827.4000197576245,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 7216768274061263808
+  },
+  "15": {
+    "tag_name": "div",
+    "text_content": "Quick Settings",
+    "bounding_box": {
+      "x": 827.4000197576245,
+      "y": 32.00000076413341,
+      "width": 40.00000095516676,
+      "height": 40.00000095516676,
+      "top": 32.00000076413341,
+      "left": 827.4000197576245,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 7350199777330168360
+  },
+  "16": {
+    "tag_name": "div",
+    "text_content": null,
+    "bounding_box": {
+      "x": 869.4000207605496,
+      "y": 28.000000668616735,
+      "width": 48.00000114620011,
+      "height": 48.00000114620011,
+      "top": 28.000000668616735,
+      "left": 869.4000207605496,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 912574362474216903
+  },
+  "17": {
+    "tag_name": "a",
+    "text_content": null,
+    "bounding_box": {
+      "x": 873.4000208560662,
+      "y": 32.00000076413341,
+      "width": 40.00000095516676,
+      "height": 40.00000095516676,
+      "top": 32.00000076413341,
+      "left": 873.4000208560662,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 1320918144166393791
+  },
+  "18": {
+    "tag_name": "a",
+    "text_content": "Sign in",
+    "bounding_box": {
+      "x": 917.4000219067497,
+      "y": 32.00000076413341,
+      "width": 85.00000202972937,
+      "height": 40.00000095516676,
+      "top": 32.00000076413341,
+      "left": 917.4000219067497,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 6212435052304652951
+  },
+  "19": {
+    "tag_name": "div",
+    "text_content": "AI Mode All Images Videos Books Forums Web More (function(){\n(this||self).y9PREe=function(a,b,c){a=document.querySelector(a);b=document.querySelector(b);a&&b&&a!==b&&a.parentNode!==b&&(b.appendChild(a),c&&google.tick(\"load\",\"uddfrt\"))};}).call(this); Tools",
+    "bounding_box": {
+      "x": 28.000000668616735,
+      "y": 101.00000241179607,
+      "width": 861.0000205599646,
+      "height": 54.00000128947513,
+      "top": 101.00000241179607,
+      "left": 28.000000668616735,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 3852770612000744448
+  },
+  "20": {
+    "tag_name": "a",
+    "text_content": "AI Mode",
+    "bounding_box": {
+      "x": 16.000000382066705,
+      "y": 107.00000255507109,
+      "width": 76.15000181839872,
+      "height": 48.00000114620011,
+      "top": 107.00000255507109,
+      "left": 16.000000382066705,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 1593570174629223275
+  },
+  "21": {
+    "tag_name": "div",
+    "text_content": "All",
+    "bounding_box": {
+      "x": 92.15000220046544,
+      "y": 107.00000255507109,
+      "width": 39.56250094471962,
+      "height": 48.00000114620011,
+      "top": 107.00000255507109,
+      "left": 92.15000220046544,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 1842340346951140644
+  },
+  "22": {
+    "tag_name": "a",
+    "text_content": "All",
+    "bounding_box": {
+      "x": 92.15000220046544,
+      "y": 107.00000255507109,
+      "width": 39.56250094471962,
+      "height": 48.00000114620011,
+      "top": 107.00000255507109,
+      "left": 92.15000220046544,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 1852022885239050853
+  },
+  "23": {
+    "tag_name": "a",
+    "text_content": "Images",
+    "bounding_box": {
+      "x": 131.71250314518505,
+      "y": 107.00000255507109,
+      "width": 69.91250166945241,
+      "height": 48.00000114620011,
+      "top": 107.00000255507109,
+      "left": 131.71250314518505,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 1639542684774564570
+  },
+  "24": {
+    "tag_name": "a",
+    "text_content": "Videos",
+    "bounding_box": {
+      "x": 201.62500481463746,
+      "y": 107.00000255507109,
+      "width": 66.5625015894572,
+      "height": 48.00000114620011,
+      "top": 107.00000255507109,
+      "left": 201.62500481463746,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 933581281444485453
+  },
+  "25": {
+    "tag_name": "a",
+    "text_content": "Books",
+    "bounding_box": {
+      "x": 268.1875064040947,
+      "y": 107.00000255507109,
+      "width": 62.91250150229823,
+      "height": 48.00000114620011,
+      "top": 107.00000255507109,
+      "left": 268.1875064040947,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 1277596964724212413
+  },
+  "26": {
+    "tag_name": "a",
+    "text_content": "Forums",
+    "bounding_box": {
+      "x": 331.1000079063929,
+      "y": 107.00000255507109,
+      "width": 71.45000170616663,
+      "height": 48.00000114620011,
+      "top": 107.00000255507109,
+      "left": 331.1000079063929,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 86393953157102111
+  },
+  "27": {
+    "tag_name": "div",
+    "text_content": "More",
+    "bounding_box": {
+      "x": 455.08751086711135,
+      "y": 107.00000255507109,
+      "width": 73.90000176467059,
+      "height": 48.00000114620011,
+      "top": 107.00000255507109,
+      "left": 455.08751086711135,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 9186946364235284553
+  },
+  "28": {
+    "tag_name": "div",
+    "text_content": "More",
+    "bounding_box": {
+      "x": 455.08751086711135,
+      "y": 107.00000255507109,
+      "width": 73.90000176467059,
+      "height": 48.00000114620011,
+      "top": 107.00000255507109,
+      "left": 455.08751086711135,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 8602425945062983422
+  },
+  "29": {
+    "tag_name": "div",
+    "text_content": "Tools",
+    "bounding_box": {
+      "x": 806.3125192540725,
+      "y": 107.00000255507109,
+      "width": 74.68750178347544,
+      "height": 48.00000114620011,
+      "top": 107.00000255507109,
+      "left": 806.3125192540725,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 4986247310653607166
+  },
+  "30": {
+    "tag_name": "div",
+    "text_content": "Search Results Scratch - Educators Scratch https://scratch.mit.edu  \u203a educators Scratch https://scratch.mit.edu  \u203a educators Your students can use  Scratch  to code their own interactive stories, animations, and games. In the process, they learn to think creatively, reason\u00a0... (function(){var id='z9PoV';document.getElementById(id).setAttribute(\"lta\",Date.now());})(); (function(){var eid='z9PoV';var a=Date.now(),b=document.getElementById(eid);if(b){var c=b.getAttribute(\"lta\"),d=c?Number(c):a;google.c.mfrvt(d,b);google.c.ub?google.c.ub():google.c.ubf=!1;google.c.maft(d,b)};})(); .DDKf1c{margin-right:12px;}.UnOTSe img{border:1px solid #5c5f5e;background-color:#fff;border-radius:50%;} (function(){var ldic='E5IKVc';(function(){var a=document.getElementsByClassName(ldic)[0];a&&(a.style.display=\"none\");}).call(this);})(); Scratch - Imagine, Program, Share Scratch https://scratch.mit.edu Scratch https://scratch.mit.edu Scratch  is a free programming language and online community where you can create your own interactive stories, games, and animations. Scratch Education on Scratch - MIT Scratch https://scratch.mit.edu  \u203a classes Scratch https://scratch.mit.edu  \u203a classes About this Class. This is a  middle school class  so students may use coding as a platform to demonstrate learning. What we're working on. Latest Activity. Class\u00a0... ScratchEd Harvard University https://scratched.gse.harvard.edu Harvard University https://scratched.gse.harvard.edu ScratchEd  was an online community where educators shared resources and discussions from 2009-2019. It is now closed, but its spirit continues in other\u00a0... Scratch Foundation Scratch Foundation https://www.scratchfoundation.org Scratch Foundation https://www.scratchfoundation.org Helping kids everywhere create what they imagine . Support our nonprofit coding community and make a difference for kids worldwide. Support Scratch\u00a0... About Scratch - MIT Scratch https://scratch.mit.edu  \u203a about Scratch https://scratch.mit.edu  \u203a about Scratch  promotes computational thinking and problem solving skills; creative teaching and learning; self-expression and collaboration; and equity in computing. ScratchJr - Home ScratchJr https://www.scratchjr.org ScratchJr https://www.scratchjr.org With ScratchJr,  young children (ages 5-7) can program their own interactive stories and games . In the process, they learn to solve problems, design projects, (function(){var id='fld_k4-2aJzKFvOvseMPqZqF2Ao_1';document.getElementById(id).setAttribute(\"lta\",Date.now());})(); (function(){var eid='fld_k4-2aJzKFvOvseMPqZqF2Ao_1';var a=Date.now(),b=document.getElementById(eid);if(b){var c=b.getAttribute(\"lta\");google.c.maft(c?Number(c):a,b)};})(); .AaVjTc a:link{display:block;color:#8ab4f8;font-weight:normal}.AaVjTc td{padding:0;text-align:center}.YyVfkd{color:var(--YLNNHc);font-weight:normal;overflow:hidden}.AaVjTc{margin:30px auto 30px}.SJajHc{background:url(/images/nav_logo321.webp) no-repeat;background-size:167px;overflow:hidden;background-position:0 0;height:40px;display:block}.NVbCr{cursor:pointer}.oeN89d{clear:both} Educational Scratch https://scratch.mit.edu  \u203a search \u203a projects \u203a q=educational Scratch https://scratch.mit.edu  \u203a search \u203a projects \u203a q=educational Scratch  is a free programming language and online community where you can create your own interactive stories, games, and animations. Scratch for Educators: Get Started With Scratch Medium\u00a0\u00b7\u00a0The Scratch Team 110+ likes  \u00b7  3 years ago Medium\u00a0\u00b7\u00a0The Scratch Team 110+ likes  \u00b7  3 years ago Scratch  is used as a tool to animate curriculum and foster creative thinking in millions of classrooms around the world. Scratch 3.0 GUI Machine Learning for Kids https://machinelearningforkids.co.uk  \u203a scratch Machine Learning for Kids https://machinelearningforkids.co.uk  \u203a scratch Your machine learning project has been changed so  Scratch  needs to reload. Click here for more information about how to fix this.",
+    "bounding_box": {
+      "x": 28.000000668616735,
+      "y": 185.00000441764627,
+      "width": 652.0000155692182,
+      "height": 1450.0000346247953,
+      "top": 185.00000441764627,
+      "left": 28.000000668616735,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 716944719036697969
+  },
+  "31": {
+    "tag_name": "div",
+    "text_content": "Scratch - Educators Scratch https://scratch.mit.edu  \u203a educators Scratch https://scratch.mit.edu  \u203a educators Your students can use  Scratch  to code their own interactive stories, animations, and games. In the process, they learn to think creatively, reason\u00a0... (function(){var id='z9PoV';document.getElementById(id).setAttribute(\"lta\",Date.now());})(); (function(){var eid='z9PoV';var a=Date.now(),b=document.getElementById(eid);if(b){var c=b.getAttribute(\"lta\"),d=c?Number(c):a;google.c.mfrvt(d,b);google.c.ub?google.c.ub():google.c.ubf=!1;google.c.maft(d,b)};})(); .DDKf1c{margin-right:12px;}.UnOTSe img{border:1px solid #5c5f5e;background-color:#fff;border-radius:50%;} (function(){var ldic='E5IKVc';(function(){var a=document.getElementsByClassName(ldic)[0];a&&(a.style.display=\"none\");}).call(this);})(); Scratch - Imagine, Program, Share Scratch https://scratch.mit.edu Scratch https://scratch.mit.edu Scratch  is a free programming language and online community where you can create your own interactive stories, games, and animations. Scratch Education on Scratch - MIT Scratch https://scratch.mit.edu  \u203a classes Scratch https://scratch.mit.edu  \u203a classes About this Class. This is a  middle school class  so students may use coding as a platform to demonstrate learning. What we're working on. Latest Activity. Class\u00a0... ScratchEd Harvard University https://scratched.gse.harvard.edu Harvard University https://scratched.gse.harvard.edu ScratchEd  was an online community where educators shared resources and discussions from 2009-2019. It is now closed, but its spirit continues in other\u00a0... Scratch Foundation Scratch Foundation https://www.scratchfoundation.org Scratch Foundation https://www.scratchfoundation.org Helping kids everywhere create what they imagine . Support our nonprofit coding community and make a difference for kids worldwide. Support Scratch\u00a0... About Scratch - MIT Scratch https://scratch.mit.edu  \u203a about Scratch https://scratch.mit.edu  \u203a about Scratch  promotes computational thinking and problem solving skills; creative teaching and learning; self-expression and collaboration; and equity in computing. ScratchJr - Home ScratchJr https://www.scratchjr.org ScratchJr https://www.scratchjr.org With ScratchJr,  young children (ages 5-7) can program their own interactive stories and games . In the process, they learn to solve problems, design projects, (function(){var id='fld_k4-2aJzKFvOvseMPqZqF2Ao_1';document.getElementById(id).setAttribute(\"lta\",Date.now());})(); (function(){var eid='fld_k4-2aJzKFvOvseMPqZqF2Ao_1';var a=Date.now(),b=document.getElementById(eid);if(b){var c=b.getAttribute(\"lta\");google.c.maft(c?Number(c):a,b)};})(); .AaVjTc a:link{display:block;color:#8ab4f8;font-weight:normal}.AaVjTc td{padding:0;text-align:center}.YyVfkd{color:var(--YLNNHc);font-weight:normal;overflow:hidden}.AaVjTc{margin:30px auto 30px}.SJajHc{background:url(/images/nav_logo321.webp) no-repeat;background-size:167px;overflow:hidden;background-position:0 0;height:40px;display:block}.NVbCr{cursor:pointer}.oeN89d{clear:both} Educational Scratch https://scratch.mit.edu  \u203a search \u203a projects \u203a q=educational Scratch https://scratch.mit.edu  \u203a search \u203a projects \u203a q=educational Scratch  is a free programming language and online community where you can create your own interactive stories, games, and animations. Scratch for Educators: Get Started With Scratch Medium\u00a0\u00b7\u00a0The Scratch Team 110+ likes  \u00b7  3 years ago Medium\u00a0\u00b7\u00a0The Scratch Team 110+ likes  \u00b7  3 years ago Scratch  is used as a tool to animate curriculum and foster creative thinking in millions of classrooms around the world. Scratch 3.0 GUI Machine Learning for Kids https://machinelearningforkids.co.uk  \u203a scratch Machine Learning for Kids https://machinelearningforkids.co.uk  \u203a scratch Your machine learning project has been changed so  Scratch  needs to reload. Click here for more information about how to fix this.",
+    "bounding_box": {
+      "x": 28.000000668616735,
+      "y": 185.00000441764627,
+      "width": 652.0000155692182,
+      "height": 1450.0000346247953,
+      "top": 185.00000441764627,
+      "left": 28.000000668616735,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 2283048580476707174
+  },
+  "32": {
+    "tag_name": "a",
+    "text_content": "Scratch - Educators Scratch https://scratch.mit.edu  \u203a educators",
+    "bounding_box": {
+      "x": 28.000000668616735,
+      "y": 237.2000056641389,
+      "width": 175.62500419377906,
+      "height": 16.000000382066705,
+      "top": 237.2000056641389,
+      "left": 28.000000668616735,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 3866621196897716429
+  },
+  "33": {
+    "tag_name": "br",
+    "text_content": null,
+    "bounding_box": {
+      "x": 28.000000668616735,
+      "y": 187.4000044749563,
+      "width": 0.0,
+      "height": 16.000000382066705,
+      "top": 187.4000044749563,
+      "left": 28.000000668616735,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 2250012850923368634
+  },
+  "34": {
+    "tag_name": "h3",
+    "text_content": "Scratch - Educators",
+    "bounding_box": {
+      "x": 28.000000668616735,
+      "y": 225.00000537281304,
+      "width": 175.62500419377906,
+      "height": 31.00000074025424,
+      "top": 225.00000537281304,
+      "left": 28.000000668616735,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 3099660149473359464
+  },
+  "35": {
+    "tag_name": "div",
+    "text_content": "Scratch https://scratch.mit.edu  \u203a educators",
+    "bounding_box": {
+      "x": 28.000000668616735,
+      "y": 185.00000441764627,
+      "width": 652.0000155692182,
+      "height": 38.00000090740843,
+      "top": 185.00000441764627,
+      "left": 28.000000668616735,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 7198875132727027875
+  },
+  "36": {
+    "tag_name": "div",
+    "text_content": "Scratch https://scratch.mit.edu  \u203a educators",
+    "bounding_box": {
+      "x": 28.000000668616735,
+      "y": 185.00000441764627,
+      "width": 652.0000155692182,
+      "height": 38.00000090740843,
+      "top": 185.00000441764627,
+      "left": 28.000000668616735,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 4892021658843880171
+  },
+  "37": {
+    "tag_name": "span",
+    "text_content": null,
+    "bounding_box": {
+      "x": 28.000000668616735,
+      "y": 190.20000454181795,
+      "width": 27.600000659065067,
+      "height": 27.600000659065067,
+      "top": 190.20000454181795,
+      "left": 28.000000668616735,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 8900514872623758568
+  },
+  "38": {
+    "tag_name": "div",
+    "text_content": null,
+    "bounding_box": {
+      "x": 32.80000078323675,
+      "y": 195.00000465643797,
+      "width": 18.000000429825043,
+      "height": 18.000000429825043,
+      "top": 195.00000465643797,
+      "left": 32.80000078323675,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 1665597288677658838
+  },
+  "39": {
+    "tag_name": "img",
+    "text_content": null,
+    "bounding_box": {
+      "x": 32.80000078323675,
+      "y": 195.00000465643797,
+      "width": 18.000000429825043,
+      "height": 18.000000429825043,
+      "top": 195.00000465643797,
+      "left": 32.80000078323675,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 1618236285935598205
+  },
+  "40": {
+    "tag_name": "div",
+    "text_content": "Scratch https://scratch.mit.edu  \u203a educators",
+    "bounding_box": {
+      "x": 67.60000161423183,
+      "y": 185.00000441764627,
+      "width": 180.7625043164583,
+      "height": 38.00000090740843,
+      "top": 185.00000441764627,
+      "left": 67.60000161423183,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 52334248520498767
+  },
+  "41": {
+    "tag_name": "div",
+    "text_content": "Scratch",
+    "bounding_box": {
+      "x": 67.60000161423183,
+      "y": 185.00000441764627,
+      "width": 180.7625043164583,
+      "height": 20.00000047758338,
+      "top": 185.00000441764627,
+      "left": 67.60000161423183,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 2228278250522344411
+  },
+  "42": {
+    "tag_name": "span",
+    "text_content": "Scratch",
+    "bounding_box": {
+      "x": 67.60000161423183,
+      "y": 185.00000441764627,
+      "width": 180.7625043164583,
+      "height": 20.00000047758338,
+      "top": 185.00000441764627,
+      "left": 67.60000161423183,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 5981638909346477690
+  },
+  "43": {
+    "tag_name": "div",
+    "text_content": "https://scratch.mit.edu  \u203a educators",
+    "bounding_box": {
+      "x": 67.60000161423183,
+      "y": 205.00000489522967,
+      "width": 180.7625043164583,
+      "height": 18.000000429825043,
+      "top": 205.00000489522967,
+      "left": 67.60000161423183,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 2349988613164736368
+  },
+  "44": {
+    "tag_name": "cite",
+    "text_content": "https://scratch.mit.edu  \u203a educators",
+    "bounding_box": {
+      "x": 67.60000161423183,
+      "y": 205.00000489522967,
+      "width": 180.7625043164583,
+      "height": 18.000000429825043,
+      "top": 205.00000489522967,
+      "left": 67.60000161423183,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 2234524436257122274
+  },
+  "45": {
+    "tag_name": "span",
+    "text_content": " \u203a educators",
+    "bounding_box": {
+      "x": 184.9875044173478,
+      "y": 206.60000493343634,
+      "width": 63.37500151334234,
+      "height": 13.6000003247567,
+      "top": 206.60000493343634,
+      "left": 184.9875044173478,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 2147531926838372647
+  },
+  "46": {
+    "tag_name": "div",
+    "text_content": null,
+    "bounding_box": {
+      "x": 256.36250612172347,
+      "y": 203.00000484747133,
+      "width": 40.00000095516676,
+      "height": 20.00000047758338,
+      "top": 203.00000484747133,
+      "left": 256.36250612172347,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 1880575756309104818
+  },
+  "47": {
+    "tag_name": "span",
+    "text_content": null,
+    "bounding_box": {
+      "x": 256.36250612172347,
+      "y": 202.00000482359215,
+      "width": 22.00000052534172,
+      "height": 22.00000052534172,
+      "top": 202.00000482359215,
+      "left": 256.36250612172347,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 8824064709673376316
+  },
+  "48": {
+    "tag_name": "a",
+    "text_content": "Scratch - Imagine, Program, Share Scratch https://scratch.mit.edu",
+    "bounding_box": {
+      "x": 28.000000668616735,
+      "y": 385.20000919825594,
+      "width": 309.0250073792602,
+      "height": 16.000000382066705,
+      "top": 385.20000919825594,
+      "left": 28.000000668616735,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 6476578989328988223
+  },
+  "49": {
+    "tag_name": "br",
+    "text_content": null,
+    "bounding_box": {
+      "x": 28.000000668616735,
+      "y": 335.4000080090733,
+      "width": 0.0,
+      "height": 16.000000382066705,
+      "top": 335.4000080090733,
+      "left": 28.000000668616735,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 409319617802040925
+  },
+  "50": {
+    "tag_name": "h3",
+    "text_content": "Scratch - Imagine, Program, Share",
+    "bounding_box": {
+      "x": 28.000000668616735,
+      "y": 373.0000089069301,
+      "width": 309.0250073792602,
+      "height": 31.00000074025424,
+      "top": 373.0000089069301,
+      "left": 28.000000668616735,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 91254461904553908
+  },
+  "51": {
+    "tag_name": "div",
+    "text_content": "Scratch https://scratch.mit.edu",
+    "bounding_box": {
+      "x": 28.000000668616735,
+      "y": 333.0000079517633,
+      "width": 652.0000155692182,
+      "height": 38.00000090740843,
+      "top": 333.0000079517633,
+      "left": 28.000000668616735,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 6597787334423274
+  },
+  "52": {
+    "tag_name": "div",
+    "text_content": "Scratch https://scratch.mit.edu",
+    "bounding_box": {
+      "x": 28.000000668616735,
+      "y": 333.0000079517633,
+      "width": 652.0000155692182,
+      "height": 38.00000090740843,
+      "top": 333.0000079517633,
+      "left": 28.000000668616735,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 623626972684402910
+  },
+  "53": {
+    "tag_name": "span",
+    "text_content": null,
+    "bounding_box": {
+      "x": 28.000000668616735,
+      "y": 338.200008075935,
+      "width": 27.600000659065067,
+      "height": 27.600000659065067,
+      "top": 338.200008075935,
+      "left": 28.000000668616735,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 695920427151716835
+  },
+  "54": {
+    "tag_name": "div",
+    "text_content": null,
+    "bounding_box": {
+      "x": 32.80000078323675,
+      "y": 343.000008190555,
+      "width": 18.000000429825043,
+      "height": 18.000000429825043,
+      "top": 343.000008190555,
+      "left": 32.80000078323675,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 4800868450174578585
+  },
+  "55": {
+    "tag_name": "img",
+    "text_content": null,
+    "bounding_box": {
+      "x": 32.80000078323675,
+      "y": 343.000008190555,
+      "width": 18.000000429825043,
+      "height": 18.000000429825043,
+      "top": 343.000008190555,
+      "left": 32.80000078323675,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 1586237322628618412
+  },
+  "56": {
+    "tag_name": "div",
+    "text_content": "Scratch https://scratch.mit.edu",
+    "bounding_box": {
+      "x": 67.60000161423183,
+      "y": 333.0000079517633,
+      "width": 117.38750280311596,
+      "height": 38.00000090740843,
+      "top": 333.0000079517633,
+      "left": 67.60000161423183,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 3797060085694910119
+  },
+  "57": {
+    "tag_name": "div",
+    "text_content": "Scratch",
+    "bounding_box": {
+      "x": 67.60000161423183,
+      "y": 333.0000079517633,
+      "width": 117.38750280311596,
+      "height": 20.00000047758338,
+      "top": 333.0000079517633,
+      "left": 67.60000161423183,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 4884234714001391008
+  },
+  "58": {
+    "tag_name": "span",
+    "text_content": "Scratch",
+    "bounding_box": {
+      "x": 67.60000161423183,
+      "y": 333.0000079517633,
+      "width": 117.38750280311596,
+      "height": 20.00000047758338,
+      "top": 333.0000079517633,
+      "left": 67.60000161423183,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 332634639562241821
+  },
+  "59": {
+    "tag_name": "div",
+    "text_content": "https://scratch.mit.edu",
+    "bounding_box": {
+      "x": 67.60000161423183,
+      "y": 353.0000084293467,
+      "width": 117.38750280311596,
+      "height": 18.000000429825043,
+      "top": 353.0000084293467,
+      "left": 67.60000161423183,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 298978485684132014
+  },
+  "60": {
+    "tag_name": "cite",
+    "text_content": "https://scratch.mit.edu",
+    "bounding_box": {
+      "x": 67.60000161423183,
+      "y": 353.0000084293467,
+      "width": 117.38750280311596,
+      "height": 18.000000429825043,
+      "top": 353.0000084293467,
+      "left": 67.60000161423183,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 1792519065134948665
+  },
+  "61": {
+    "tag_name": "div",
+    "text_content": null,
+    "bounding_box": {
+      "x": 192.98750460838113,
+      "y": 351.0000083815884,
+      "width": 40.00000095516676,
+      "height": 20.00000047758338,
+      "top": 351.0000083815884,
+      "left": 192.98750460838113,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 1385469287023641369
+  },
+  "62": {
+    "tag_name": "span",
+    "text_content": null,
+    "bounding_box": {
+      "x": 192.98750460838113,
+      "y": 350.0000083577092,
+      "width": 22.00000052534172,
+      "height": 22.00000052534172,
+      "top": 350.0000083577092,
+      "left": 192.98750460838113,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 1598620896110376362
+  },
+  "63": {
+    "tag_name": "a",
+    "text_content": "Scratch Education on Scratch - MIT Scratch https://scratch.mit.edu  \u203a classes",
+    "bounding_box": {
+      "x": 28.000000668616735,
+      "y": 533.2000127323729,
+      "width": 315.6875075383552,
+      "height": 16.000000382066705,
+      "top": 533.2000127323729,
+      "left": 28.000000668616735,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 6832419341762323072
+  },
+  "64": {
+    "tag_name": "br",
+    "text_content": null,
+    "bounding_box": {
+      "x": 28.000000668616735,
+      "y": 483.4000115431903,
+      "width": 0.0,
+      "height": 16.000000382066705,
+      "top": 483.4000115431903,
+      "left": 28.000000668616735,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 409319617802040925
+  },
+  "65": {
+    "tag_name": "h3",
+    "text_content": "Scratch Education on Scratch - MIT",
+    "bounding_box": {
+      "x": 28.000000668616735,
+      "y": 521.0000124410471,
+      "width": 315.6875075383552,
+      "height": 31.00000074025424,
+      "top": 521.0000124410471,
+      "left": 28.000000668616735,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 91254461904553908
+  },
+  "66": {
+    "tag_name": "div",
+    "text_content": "Scratch https://scratch.mit.edu  \u203a classes",
+    "bounding_box": {
+      "x": 28.000000668616735,
+      "y": 481.00001148588035,
+      "width": 652.0000155692182,
+      "height": 38.00000090740843,
+      "top": 481.00001148588035,
+      "left": 28.000000668616735,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 6597787334423274
+  },
+  "67": {
+    "tag_name": "div",
+    "text_content": "Scratch https://scratch.mit.edu  \u203a classes",
+    "bounding_box": {
+      "x": 28.000000668616735,
+      "y": 481.00001148588035,
+      "width": 652.0000155692182,
+      "height": 38.00000090740843,
+      "top": 481.00001148588035,
+      "left": 28.000000668616735,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 623626972684402910
+  },
+  "68": {
+    "tag_name": "span",
+    "text_content": null,
+    "bounding_box": {
+      "x": 28.000000668616735,
+      "y": 486.200011610052,
+      "width": 27.600000659065067,
+      "height": 27.600000659065067,
+      "top": 486.200011610052,
+      "left": 28.000000668616735,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 695920427151716835
+  },
+  "69": {
+    "tag_name": "div",
+    "text_content": null,
+    "bounding_box": {
+      "x": 32.80000078323675,
+      "y": 491.000011724672,
+      "width": 18.000000429825043,
+      "height": 18.000000429825043,
+      "top": 491.000011724672,
+      "left": 32.80000078323675,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 4800868450174578585
+  },
+  "70": {
+    "tag_name": "img",
+    "text_content": null,
+    "bounding_box": {
+      "x": 32.80000078323675,
+      "y": 491.000011724672,
+      "width": 18.000000429825043,
+      "height": 18.000000429825043,
+      "top": 491.000011724672,
+      "left": 32.80000078323675,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 431503837593876999
+  },
+  "71": {
+    "tag_name": "div",
+    "text_content": "Scratch https://scratch.mit.edu  \u203a classes",
+    "bounding_box": {
+      "x": 67.60000161423183,
+      "y": 481.00001148588035,
+      "width": 168.07500401349134,
+      "height": 38.00000090740843,
+      "top": 481.00001148588035,
+      "left": 67.60000161423183,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 3797060085694910119
+  },
+  "72": {
+    "tag_name": "div",
+    "text_content": "Scratch",
+    "bounding_box": {
+      "x": 67.60000161423183,
+      "y": 481.00001148588035,
+      "width": 168.07500401349134,
+      "height": 20.00000047758338,
+      "top": 481.00001148588035,
+      "left": 67.60000161423183,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 4884234714001391008
+  },
+  "73": {
+    "tag_name": "span",
+    "text_content": "Scratch",
+    "bounding_box": {
+      "x": 67.60000161423183,
+      "y": 481.00001148588035,
+      "width": 168.07500401349134,
+      "height": 20.00000047758338,
+      "top": 481.00001148588035,
+      "left": 67.60000161423183,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 332634639562241821
+  },
+  "74": {
+    "tag_name": "div",
+    "text_content": "https://scratch.mit.edu  \u203a classes",
+    "bounding_box": {
+      "x": 67.60000161423183,
+      "y": 501.0000119634637,
+      "width": 168.07500401349134,
+      "height": 18.000000429825043,
+      "top": 501.0000119634637,
+      "left": 67.60000161423183,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 298978485684132014
+  },
+  "75": {
+    "tag_name": "cite",
+    "text_content": "https://scratch.mit.edu  \u203a classes",
+    "bounding_box": {
+      "x": 67.60000161423183,
+      "y": 501.0000119634637,
+      "width": 168.07500401349134,
+      "height": 18.000000429825043,
+      "top": 501.0000119634637,
+      "left": 67.60000161423183,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 1538209785658206650
+  },
+  "76": {
+    "tag_name": "span",
+    "text_content": " \u203a classes",
+    "bounding_box": {
+      "x": 184.9875044173478,
+      "y": 502.6000120016704,
+      "width": 50.68750121037538,
+      "height": 13.6000003247567,
+      "top": 502.6000120016704,
+      "left": 184.9875044173478,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 1060926874910952401
+  },
+  "77": {
+    "tag_name": "div",
+    "text_content": null,
+    "bounding_box": {
+      "x": 243.67500581875652,
+      "y": 499.0000119157054,
+      "width": 40.00000095516676,
+      "height": 20.00000047758338,
+      "top": 499.0000119157054,
+      "left": 243.67500581875652,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 1385469287023641369
+  },
+  "78": {
+    "tag_name": "span",
+    "text_content": null,
+    "bounding_box": {
+      "x": 243.67500581875652,
+      "y": 498.0000118918262,
+      "width": 22.00000052534172,
+      "height": 22.00000052534172,
+      "top": 498.0000118918262,
+      "left": 243.67500581875652,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 1598620896110376362
+  },
+  "79": {
+    "tag_name": "a",
+    "text_content": "ScratchEd Harvard University https://scratched.gse.harvard.edu",
+    "bounding_box": {
+      "x": 28.000000668616735,
+      "y": 681.20001626649,
+      "width": 92.27500220345033,
+      "height": 16.000000382066705,
+      "top": 681.20001626649,
+      "left": 28.000000668616735,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 1502318985297527709
+  },
+  "80": {
+    "tag_name": "br",
+    "text_content": null,
+    "bounding_box": {
+      "x": 28.000000668616735,
+      "y": 631.4000150773073,
+      "width": 0.0,
+      "height": 16.000000382066705,
+      "top": 631.4000150773073,
+      "left": 28.000000668616735,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 409319617802040925
+  },
+  "81": {
+    "tag_name": "h3",
+    "text_content": "ScratchEd",
+    "bounding_box": {
+      "x": 28.000000668616735,
+      "y": 669.0000159751642,
+      "width": 92.27500220345033,
+      "height": 31.00000074025424,
+      "top": 669.0000159751642,
+      "left": 28.000000668616735,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 91254461904553908
+  },
+  "82": {
+    "tag_name": "div",
+    "text_content": "Harvard University https://scratched.gse.harvard.edu",
+    "bounding_box": {
+      "x": 28.000000668616735,
+      "y": 629.0000150199974,
+      "width": 652.0000155692182,
+      "height": 38.00000090740843,
+      "top": 629.0000150199974,
+      "left": 28.000000668616735,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 6597787334423274
+  },
+  "83": {
+    "tag_name": "div",
+    "text_content": "Harvard University https://scratched.gse.harvard.edu",
+    "bounding_box": {
+      "x": 28.000000668616735,
+      "y": 629.0000150199974,
+      "width": 652.0000155692182,
+      "height": 38.00000090740843,
+      "top": 629.0000150199974,
+      "left": 28.000000668616735,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 623626972684402910
+  },
+  "84": {
+    "tag_name": "span",
+    "text_content": null,
+    "bounding_box": {
+      "x": 28.000000668616735,
+      "y": 634.200015144169,
+      "width": 27.600000659065067,
+      "height": 27.600000659065067,
+      "top": 634.200015144169,
+      "left": 28.000000668616735,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 695920427151716835
+  },
+  "85": {
+    "tag_name": "div",
+    "text_content": null,
+    "bounding_box": {
+      "x": 32.80000078323675,
+      "y": 639.0000152587891,
+      "width": 18.000000429825043,
+      "height": 18.000000429825043,
+      "top": 639.0000152587891,
+      "left": 32.80000078323675,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 4800868450174578585
+  },
+  "86": {
+    "tag_name": "img",
+    "text_content": null,
+    "bounding_box": {
+      "x": 32.80000078323675,
+      "y": 639.0000152587891,
+      "width": 18.000000429825043,
+      "height": 18.000000429825043,
+      "top": 639.0000152587891,
+      "left": 32.80000078323675,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 2959558077764228483
+  },
+  "87": {
+    "tag_name": "div",
+    "text_content": "Harvard University https://scratched.gse.harvard.edu",
+    "bounding_box": {
+      "x": 67.60000161423183,
+      "y": 629.0000150199974,
+      "width": 178.1125042531785,
+      "height": 38.00000090740843,
+      "top": 629.0000150199974,
+      "left": 67.60000161423183,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 3797060085694910119
+  },
+  "88": {
+    "tag_name": "div",
+    "text_content": "Harvard University",
+    "bounding_box": {
+      "x": 67.60000161423183,
+      "y": 629.0000150199974,
+      "width": 178.1125042531785,
+      "height": 20.00000047758338,
+      "top": 629.0000150199974,
+      "left": 67.60000161423183,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 4884234714001391008
+  },
+  "89": {
+    "tag_name": "span",
+    "text_content": "Harvard University",
+    "bounding_box": {
+      "x": 67.60000161423183,
+      "y": 629.0000150199974,
+      "width": 178.1125042531785,
+      "height": 20.00000047758338,
+      "top": 629.0000150199974,
+      "left": 67.60000161423183,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 332634639562241821
+  },
+  "90": {
+    "tag_name": "div",
+    "text_content": "https://scratched.gse.harvard.edu",
+    "bounding_box": {
+      "x": 67.60000161423183,
+      "y": 649.0000154975808,
+      "width": 178.1125042531785,
+      "height": 18.000000429825043,
+      "top": 649.0000154975808,
+      "left": 67.60000161423183,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 298978485684132014
+  },
+  "91": {
+    "tag_name": "cite",
+    "text_content": "https://scratched.gse.harvard.edu",
+    "bounding_box": {
+      "x": 67.60000161423183,
+      "y": 649.0000154975808,
+      "width": 178.1125042531785,
+      "height": 18.000000429825043,
+      "top": 649.0000154975808,
+      "left": 67.60000161423183,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 1792519065134948665
+  },
+  "92": {
+    "tag_name": "div",
+    "text_content": null,
+    "bounding_box": {
+      "x": 253.7125060584437,
+      "y": 647.0000154498224,
+      "width": 40.00000095516676,
+      "height": 20.00000047758338,
+      "top": 647.0000154498224,
+      "left": 253.7125060584437,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 3680498843747519211
+  },
+  "93": {
+    "tag_name": "span",
+    "text_content": null,
+    "bounding_box": {
+      "x": 253.7125060584437,
+      "y": 646.0000154259433,
+      "width": 22.00000052534172,
+      "height": 22.00000052534172,
+      "top": 646.0000154259433,
+      "left": 253.7125060584437,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 1598620896110376362
+  }
+}

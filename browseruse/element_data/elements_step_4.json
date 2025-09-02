@@ -1,0 +1,354 @@
+{
+  "1": {
+    "tag_name": "a",
+    "text_content": "Create",
+    "bounding_box": {
+      "x": 40.00000095516676,
+      "y": 6.000000143275014,
+      "width": 60.92500145483837,
+      "height": 21.00000050146255,
+      "top": 6.000000143275014,
+      "left": 40.00000095516676,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 61629289762421304
+  },
+  "2": {
+    "tag_name": "a",
+    "text_content": "Scratch Shop",
+    "bounding_box": {
+      "x": 124.9250029831052,
+      "y": 6.000000143275014,
+      "width": 107.33750256313031,
+      "height": 21.00000050146255,
+      "top": 6.000000143275014,
+      "left": 124.9250029831052,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 1713785352580486129
+  },
+  "3": {
+    "tag_name": "a",
+    "text_content": null,
+    "bounding_box": {
+      "x": 40.00000095516676,
+      "y": 49.00000117007929,
+      "width": 123.28750294400305,
+      "height": 48.00000114620011,
+      "top": 49.00000117007929,
+      "left": 40.00000095516676,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 2056450930387557403
+  },
+  "4": {
+    "tag_name": "a",
+    "text_content": "Impact",
+    "bounding_box": {
+      "x": 195.28750466330322,
+      "y": 49.00000117007929,
+      "width": 59.36250141752718,
+      "height": 48.00000114620011,
+      "top": 49.00000117007929,
+      "left": 195.28750466330322,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 920120924011649357
+  },
+  "5": {
+    "tag_name": "button",
+    "text_content": "Impact",
+    "bounding_box": {
+      "x": 195.28750466330322,
+      "y": 61.00000145662931,
+      "width": 59.36250141752718,
+      "height": 24.000000573100056,
+      "top": 61.00000145662931,
+      "left": 195.28750466330322,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 638050646774100691
+  },
+  "6": {
+    "tag_name": "div",
+    "text_content": "Learn",
+    "bounding_box": {
+      "x": 294.6500070359972,
+      "y": 49.00000117007929,
+      "width": 47.25000112829074,
+      "height": 48.00000114620011,
+      "top": 49.00000117007929,
+      "left": 294.6500070359972,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 2004557158175468394
+  },
+  "7": {
+    "tag_name": "a",
+    "text_content": "Learn",
+    "bounding_box": {
+      "x": 294.6500070359972,
+      "y": 49.00000117007929,
+      "width": 47.25000112829074,
+      "height": 48.00000114620011,
+      "top": 49.00000117007929,
+      "left": 294.6500070359972,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 351327857368855012
+  },
+  "8": {
+    "tag_name": "button",
+    "text_content": "Learn",
+    "bounding_box": {
+      "x": 294.6500070359972,
+      "y": 61.00000145662931,
+      "width": 47.25000112829074,
+      "height": 24.000000573100056,
+      "top": 61.00000145662931,
+      "left": 294.6500070359972,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 638050646774100691
+  },
+  "9": {
+    "tag_name": "div",
+    "text_content": "Tools",
+    "bounding_box": {
+      "x": 381.9000091194547,
+      "y": 49.00000117007929,
+      "width": 42.42500101307375,
+      "height": 48.00000114620011,
+      "top": 49.00000117007929,
+      "left": 381.9000091194547,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 2004557158175468394
+  },
+  "10": {
+    "tag_name": "a",
+    "text_content": "Tools",
+    "bounding_box": {
+      "x": 381.9000091194547,
+      "y": 49.00000117007929,
+      "width": 42.42500101307375,
+      "height": 48.00000114620011,
+      "top": 49.00000117007929,
+      "left": 381.9000091194547,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 5127814498931514154
+  },
+  "11": {
+    "tag_name": "button",
+    "text_content": "Tools",
+    "bounding_box": {
+      "x": 381.9000091194547,
+      "y": 61.00000145662931,
+      "width": 42.42500101307375,
+      "height": 24.000000573100056,
+      "top": 61.00000145662931,
+      "left": 381.9000091194547,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 638050646774100691
+  },
+  "12": {
+    "tag_name": "a",
+    "text_content": "Get Involved",
+    "bounding_box": {
+      "x": 464.3250110876952,
+      "y": 49.00000117007929,
+      "width": 102.52500244821181,
+      "height": 48.00000114620011,
+      "top": 49.00000117007929,
+      "left": 464.3250110876952,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 1185828648232886177
+  },
+  "13": {
+    "tag_name": "button",
+    "text_content": "Get Involved",
+    "bounding_box": {
+      "x": 464.3250110876952,
+      "y": 61.00000145662931,
+      "width": 102.52500244821181,
+      "height": 24.000000573100056,
+      "top": 61.00000145662931,
+      "left": 464.3250110876952,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 638050646774100691
+  },
+  "14": {
+    "tag_name": "a",
+    "text_content": "Donate Now",
+    "bounding_box": {
+      "x": 645.3250154098248,
+      "y": 56.2000013420093,
+      "width": 112.6500026899884,
+      "height": 33.600000802340084,
+      "top": 56.2000013420093,
+      "left": 645.3250154098248,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 600683795675017155
+  },
+  "15": {
+    "tag_name": "a",
+    "text_content": "Become a Member",
+    "bounding_box": {
+      "x": 773.9750184818799,
+      "y": 56.2000013420093,
+      "width": 152.42500363978235,
+      "height": 33.600000802340084,
+      "top": 56.2000013420093,
+      "left": 773.9750184818799,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 1776578415806163803
+  },
+  "16": {
+    "tag_name": "a",
+    "text_content": null,
+    "bounding_box": {
+      "x": 942.4000225037289,
+      "y": 53.00000126559596,
+      "width": 40.00000095516676,
+      "height": 40.00000095516676,
+      "top": 53.00000126559596,
+      "left": 942.4000225037289,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 1828483142895278380
+  },
+  "17": {
+    "tag_name": "a",
+    "text_content": "Learn",
+    "bounding_box": {
+      "x": 40.00000095516676,
+      "y": 130.00000310429198,
+      "width": 42.0000010029251,
+      "height": 22.00000052534172,
+      "top": 130.00000310429198,
+      "left": 40.00000095516676,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 1336934561717622148
+  },
+  "18": {
+    "tag_name": "svg",
+    "text_content": null,
+    "bounding_box": {
+      "x": 86.00000205360854,
+      "y": 129.00000308041282,
+      "width": 24.000000573100056,
+      "height": 24.000000573100056,
+      "top": 129.00000308041282,
+      "left": 86.00000205360854,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 1086467345205744334
+  },
+  "19": {
+    "tag_name": "a",
+    "text_content": "Learning Library",
+    "bounding_box": {
+      "x": 175.7125041958685,
+      "y": 607.0000144946556,
+      "width": 195.35000466479568,
+      "height": 52.000001241716795,
+      "top": 607.0000144946556,
+      "left": 175.7125041958685,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 1027235988326784967
+  },
+  "20": {
+    "tag_name": "a",
+    "text_content": "For Kids",
+    "bounding_box": {
+      "x": 371.0625088606642,
+      "y": 607.0000144946556,
+      "width": 129.975003103695,
+      "height": 52.000001241716795,
+      "top": 607.0000144946556,
+      "left": 371.0625088606642,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 115661637716509507
+  },
+  "21": {
+    "tag_name": "a",
+    "text_content": "For Families",
+    "bounding_box": {
+      "x": 501.03751196435917,
+      "y": 607.0000144946556,
+      "width": 163.7750039108109,
+      "height": 52.000001241716795,
+      "top": 607.0000144946556,
+      "left": 501.03751196435917,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 8246706765105497307
+  },
+  "22": {
+    "tag_name": "a",
+    "text_content": "For Educators",
+    "bounding_box": {
+      "x": 664.8125158751701,
+      "y": 607.0000144946556,
+      "width": 181.87500434302387,
+      "height": 52.000001241716795,
+      "top": 607.0000144946556,
+      "left": 664.8125158751701,
+      "bottom": null,
+      "right": null
+    },
+    "is_visible": true,
+    "element_hash": 562682945703770972
+  }
+}
